@@ -1,1 +1,1 @@
-# SMS_SPAM_DETECTION
+This repository contains the implementation of an SMS Spam Detection system using Natural Language Processing (NLP) techniques. The goal of this project is to classify SMS messages as either spam or ham (non-spam) based on their content using machine learning models
